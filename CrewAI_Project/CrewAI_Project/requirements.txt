@@ -1,0 +1,6 @@
+crewai>=1.0
+crewai-tools>=1.0
+tavily-python>=0.5
+python-dotenv>=1.0
+pydantic>=2.6
+pytest>=8.0
